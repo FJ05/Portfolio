@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'IBMPlexMono';
+    src: url('../fonts/IBMPlexMono-Bold.ttf');
+}
+*{
+    font-family: 'IBMPlexMono';
+}
+body{
+    background-color: #1e1c1c;
+    color: white;
+}
+h1{
+    font-size: 10rem;
+}
+div.Status{
+    position: absolute;
+}
+div.MyWork{
+    position: absolute;
+    margin-top: 20rem;
+}
+div.GitHub{
+    position: absolute;
+    margin-top: 40rem;
+}
