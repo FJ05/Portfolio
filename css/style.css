@@ -1,3 +1,18 @@
+/*fades in the entre website for a more relaxing experience*/
+@keyframes fadeIn{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#text{
+    opacity: 0;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
 @font-face {
     font-family: 'IBMPlexMono';
     src: url('../fonts/IBMPlexMono-Bold.ttf');
@@ -10,16 +25,19 @@ body{
     color: white;
 }
 h1{
-    font-size: 10rem;
+    font-size: 7rem;
 }
-div.Status{
+#Status{
     position: absolute;
 }
-div.MyWork{
+#MyWork{
     position: absolute;
-    margin-top: 20rem;
+    margin-top: 14rem;
 }
-div.GitHub{
+#GitHub{
     position: absolute;
-    margin-top: 40rem;
+    margin-top: 28rem;
+}
+#text:has(.HighLigt:hover) .HighLigt:not(.HighLigt:hover){
+    opacity: 0.3;
 }
