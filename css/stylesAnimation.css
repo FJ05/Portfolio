@@ -96,3 +96,100 @@
 @keyframes Git-6-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
 .HighLigt:hover #Git-6{animation-name: Git-6-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
 .HighLigt #Git-6{animation-name: Git-6-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+/*Support for safari*/
+
+@-webkit-keyframes st-1-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-1-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-1{animation-name: st-1-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-1{animation-name: st-1-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes st-2-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-2-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-2{animation-name: st-2-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-2{animation-name: st-2-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes st-3-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-3-out {from{transform: rotate(10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-3{animation-name: st-3-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-3{animation-name: st-3-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes st-4-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-4-out {from{transform: rotate(-20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-4{animation-name: st-4-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-4{animation-name: st-4-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes st-5-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-5-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-5{animation-name: st-5-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-5{animation-name: st-5-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes st-6-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes st-6-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #st-6{animation-name: st-6-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #st-6{animation-name: st-6-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-1-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-1-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-1{animation-name: My-1-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-1{animation-name: My-1-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-2-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-2-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-2{animation-name: My-2-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-2{animation-name: My-2-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-3-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-3-out {from{transform: rotate(10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-3{animation-name: My-3-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-3{animation-name: My-3-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-4-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-4-out {from{transform: rotate(-20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-4{animation-name: My-4-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-4{animation-name: My-4-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-5-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-5-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-5{animation-name: My-5-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-5{animation-name: My-5-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-6-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-6-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-6{animation-name: My-6-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-6{animation-name: My-6-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes My-7-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes My-7-out {from{transform: rotate(10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #My-7{animation-name: My-7-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #My-7{animation-name: My-7-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-1-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-1-out {from{transform: rotate(-20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-1{animation-name: Git-1-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-1{animation-name: Git-1-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-2-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-2-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-2{animation-name: Git-2-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-2{animation-name: Git-2-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-3-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-3-out {from{transform: rotate(-10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-3{animation-name: Git-3-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-3{animation-name: Git-3-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-4-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(10deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-4-out {from{transform: rotate(10deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-4{animation-name: Git-4-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-4{animation-name: Git-4-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-5-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(-20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-5-out {from{transform: rotate(-20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-5{animation-name: Git-5-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-5{animation-name: Git-5-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
+
+@-webkit-keyframes Git-6-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
+@-webkit-keyframes Git-6-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
+.HighLigt:hover #Git-6{animation-name: Git-6-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
+.HighLigt #Git-6{animation-name: Git-6-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
