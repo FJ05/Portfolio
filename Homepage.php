@@ -11,13 +11,15 @@
 </head>
 <body>
     <div id="text";>
-        <div class="HighLigt" id="Status">
+        <div class="HighLigt" id="Status" ="Status/Status.php">
+            <a href="Status/Status.php">
             <h1 style="float: left; margin-right: 2rem;" id="St-1">S</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-2">T</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-3">A</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-4">T</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-5">U</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-6">S</h1>
+            </a>
         </div>
         <div class="HighLigt" id="MyWork">
             <h1 style="float: left; margin-right: 2rem;" id="My-1">M</h1>

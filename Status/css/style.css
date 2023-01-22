@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'IBMPlexMono';
+    src: url('../fonts/IBMPlexMono-Bold.ttf');
+}
+*{
+    font-family: 'IBMPlexMono';
+}
+body{
+    background-color: #1e1c1c;
+    color: white;
+}
+header h1{
+    text-align: center;
+    font-size: 5rem;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    position: absolute;
+    font-size: 5rem;
+}

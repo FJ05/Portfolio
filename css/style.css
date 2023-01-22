@@ -41,3 +41,7 @@ h1{
 #text:has(.HighLigt:hover) .HighLigt:not(.HighLigt:hover){
     opacity: 0.3;
 }
+a{
+    color: white;
+    text-decoration: none;
+}

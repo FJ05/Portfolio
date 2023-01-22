@@ -30,6 +30,7 @@
 .HighLigt #St-6{animation-name: St-6-out; animation-duration: 0.5s; animation-fill-mode: forwards;}
 
 /* Animation for "MY WORK" */
+
 @keyframes My-1-in {from{animation-duration: 0.5; transform: rotate(0deg); margin-left: 0rem;} to{transform: rotate(20deg); margin-left: 0.5rem;}}
 @keyframes My-1-out {from{transform: rotate(20deg); margin-left: 0.5rem;} to{transform: rotate(0deg); margin-left: 0rem;}}
 .HighLigt:hover #My-1{animation-name: My-1-in; animation-duration: 0.5s; animation-fill-mode: forwards;}
