@@ -9,10 +9,14 @@
 </head>
 <body>
     <header>
-        <a href=""><-- Back</a>
-        <h1>Status</h1>
+        <div id="BackObject">
+            <a href=""><-- BACK</a>
+            <div id="UnderLine"></div>
+        </div>
+        <h1>STATUS</h1>
     </header>
     <Div id="terminal">
+        <p id="TextContainer">TEST</p>
     </Div>
 </body>
 </html>
