@@ -29,10 +29,10 @@ header a{
 @keyframes UnderLineAnimationIn{0%{width: 0rem;}100%{width: 15rem;}}
 @keyframes UnderLineAnimationOut{0%{width: 15rem;}100%{width: 0rem;}}
 #BackObject #UnderLine{
-    animation-name: UnderLineAnimationOut; animation-duration: 1s; animation-fill-mode: forwards
+    animation-name: UnderLineAnimationOut; animation-duration: 0.5s; animation-fill-mode: forwards
 }
 #BackObject:hover #UnderLine{
-    animation-name: UnderLineAnimationIn; animation-duration: 1s; animation-fill-mode: forwards
+    animation-name: UnderLineAnimationIn; animation-duration: 0.5s; animation-fill-mode: forwards
 }
 #terminal{
     position: absolute;
@@ -45,5 +45,9 @@ header a{
     border-radius: 1rem;
 }
 #TextContainer{
+    margin-left: 1rem;
+}
+#Text{
+    color: white;
     margin-left: 1rem;
 }

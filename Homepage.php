@@ -11,8 +11,8 @@
 </head>
 <body>
     <div id="text";>
-        <div class="HighLigt" id="Status" ="Status/Status.php">
-            <a href="Status/Status.php">
+        <div class="HighLigt" id="Status">
+            <a href="Status.php">
             <h1 style="float: left; margin-right: 2rem;" id="St-1">S</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-2">T</h1>
             <h1 style="float: left; margin-right: 2rem;" id="St-3">A</h1>
